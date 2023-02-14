@@ -1,3 +1,18 @@
 .title {
   text-align: center;
 }
+.border-column {
+  border-right: 1px solid #ddd;
+}
+
+.contact-list-item {
+  margin-top: 20px;
+}
+.search-box {
+  margin-top: 10px;
+}
+/* ContactItem.js */
+.contact-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
